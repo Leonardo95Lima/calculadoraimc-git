@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
 
-
-/*Só testando */
-
 *{
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -10,7 +7,7 @@
     box-sizing: border-box;
 }
 
-
+/*Só testando*/
 body{
     display: flex;
     align-items: center;
